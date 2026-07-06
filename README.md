@@ -273,6 +273,3 @@ This project demonstrates:
 - Seaborn
 - Scikit-learn
 
-- Feature importance analysis using SHAP
-- Ensemble Regression Models
-- Model deployment using Flask/Streamlit
