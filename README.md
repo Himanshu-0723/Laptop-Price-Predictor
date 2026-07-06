@@ -1,6 +1,6 @@
-# 💻 Laptop Price Prediction using Linear Regression & Regularization
+# Laptop Price Prediction using Linear Regression & Regularization
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on predicting laptop prices using various Linear Regression models while exploring the impact of regularization techniques.
 
