@@ -89,7 +89,7 @@ Hard-Disk → HDD
 
 ---
 
-# ⚙ Feature Engineering
+# Feature Engineering
 
 Several new features were extracted from raw text columns.
 
@@ -208,7 +208,7 @@ Performed
 
 ---
 
-# 🤖 Models Used
+# Models Used
 
 - Linear Regression
 - Ridge Regression
@@ -217,7 +217,7 @@ Performed
 
 ---
 
-# 📈 Model Performance
+# Model Performance
 
 | Model | Train MSE | Test MSE | R² Score |
 |-----------------------|----------:|----------:|---------:|
@@ -227,7 +227,7 @@ Performed
 
 ---
 
-# 📌 Regularization Analysis
+# Regularization Analysis
 
 The project also investigates how different regularization techniques behave.
 
@@ -263,7 +263,7 @@ This project demonstrates:
 
 ---
 
-# 🧰 Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
